@@ -18,6 +18,7 @@
 
 #include <Standard_Transient.hxx>
 #include <Standard_TypeDef.hxx>
+#include <Standard_Dump.hxx>
 
 //! Helper class for keeping reference on world-view-projection state.
 //! Helpful for synchronizing state of WVP dependent data structures.
